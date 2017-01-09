@@ -20,8 +20,9 @@ int main(void)
         height = get_int();
     }
     //height of the half-pyramid should be between 1 and 23 as per specs for this problem;
-    while (height <= 0 || height >= 23);
+    while (height < 0 || height > 23);
    
+    //optional message
     printf("Here is your Mario's half-pyramid:\n");
    
     //define building blocks of your pyramid - hashes;
