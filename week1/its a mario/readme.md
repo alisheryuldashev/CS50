@@ -6,7 +6,4 @@ This console program written in C recreates a similar half-pyramid using hashes 
       ###
      ####
     #####
-   ######
-  #######
- ########
-#########
+
