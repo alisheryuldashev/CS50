@@ -1,4 +1,4 @@
-The week 1 included the following topics:
+Week 1 included the following topics:
 
 Binary. 
 ASCII. 
