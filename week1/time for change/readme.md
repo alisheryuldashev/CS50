@@ -1,3 +1,5 @@
+Problem 3
+
 Here I implemented a program that calculates the minimum number of coins required to give a user change.
 
 It uses the "greedy algorithm - that always takes the best immediate, or local, solution while finding an answer. Greedy algorithms find the overall, or globally, optimal solution for some optimization problems, but may find less-than-optimal solutions for some instances of other problems."
