@@ -1,4 +1,4 @@
-Week 1 included the following topics:
+In Week 1 I learned the following topics:
 
 Binary. 
 ASCII. 
