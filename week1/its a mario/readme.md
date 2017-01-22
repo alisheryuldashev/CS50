@@ -1,4 +1,4 @@
-problem 2
+Problem 2
 
 Toward the end of World 1-1 in Nintendo’s Super Mario Brothers, Mario must ascend a "half-pyramid" of blocks before leaping (if he wants to maximize his score) toward a flag pole.
 
