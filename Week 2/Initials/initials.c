@@ -1,3 +1,9 @@
+/*
+This is a console program asks for a person's name and then prints a person's initials.
+
+This code was thought through and written by Alisher Yuldashev
+*/
+
 #include <stdio.h>
 #include <cs50.h>
 #include <ctype.h> //add ctype header file to access the touppper, isspace, isalpha functions
