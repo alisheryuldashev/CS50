@@ -6,12 +6,12 @@ This code was thought through and written by Alisher Yuldashev
 
 #include <stdio.h>
 #include <cs50.h>
-#include <ctype.h> //add ctype header file to access the touppper, isspace, isalpha functions
+#include <ctype.h> //add ctype header file to access the toupper, isspace, isalpha functions
 #include <string.h>
 
 int main (void)
 {
-    //printf("Type your full name\n");
+    printf("Type your full name\n");
     char * name = get_string();
     //loop counter
     int i;
