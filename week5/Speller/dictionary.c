@@ -1,5 +1,9 @@
 /**
- * Implements a dictionary's functionality.
+This is a console program spell checks words by comparing words from files to ones uploaded in dictionary.
+The code in this file implements a dictionary's functionality.
+This code was thought through and written by Alisher Yuldashev
+*/
+
  */
 
 #include <stdbool.h>
