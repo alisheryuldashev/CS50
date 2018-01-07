@@ -6,24 +6,24 @@ Dictionary.h file only declares four functions (load, check, size, unload) which
 
 The output of this program will show all the misspelled words and the time it took to run the above 4 functions: 
 
-$ ./speller texts/lalaland.txt
-MISSPELLED WORDS
-
-[...]
-AH
-[...]
-Shangri
-[...]
-fianc
-[...]
-Sebastian's
-[...]
-
-WORDS MISSPELLED:
-WORDS IN DICTIONARY:
-WORDS IN TEXT:
-TIME IN load:
-TIME IN check:
-TIME IN size:
-TIME IN unload:
-TIME IN TOTAL:
+$ ./speller texts/lalaland.txt<br />
+MISSPELLED WORDS<br /><br />
+<br />
+[...]<br />
+AH<br /><br />
+[...]<br /><br />
+Shangri<br />
+[...]<br /><br />
+fianc<br /><br />
+[...]<br /><br />
+Sebastian's<br /><br />
+[...]<br /><br />
+<br />
+WORDS <br />MISSPELLED:<br />
+WORDS IN DICvTIONARY:<br />
+WORDS IN TE<br />:<br />
+TIME IN load:<br />
+TIME IN check:<br />
+TIME IN size:<br />
+TIME IN unload:<br />
+TIME IN TOTAL:<br />
