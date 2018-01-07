@@ -1,8 +1,8 @@
 In week 2:Data Structures I learned the following topics:
 
-Singly-Linked Lists.
-Doubly-Linked Lists.
-Stacks.
-Queues.
-Hash Tables.
-Tries.
+Singly-Linked Lists__
+Doubly-Linked Lists__
+Stacks__
+Queues__
+Hash Tables__
+Tries__
